@@ -67,7 +67,7 @@ session_start();
 				<div class="container" >
 				<a class="brand" href="index.php" >HOME</a>
 				<a class="brand" href="train.php" >FIND TRAIN</a>
-				<a class="brand" href="booking.php">BOOK TICKET</a>
+				<a class="brand" href="booking.php">BOOK TICKETS</a>
 				<a class="brand" href="profile.php">PROFILE</a>
 				<a class="brand" href="bookHsty.php">BOOKING HISTORY</a>
 				</div>
