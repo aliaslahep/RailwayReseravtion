@@ -8,7 +8,7 @@ if(isset($_GET['deleteid'])){
 	if($result){
 		header("location:bookHsty.php");
 	}
-	
+	//dd()
 }	
 
 ?>
